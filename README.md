@@ -10,7 +10,7 @@ Design
 Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pemrograman Visual.
 
 Tampilan website
-![preview of Adrian Ravaliano Wibowo's portfolio website](./preview/previewportofolio.png)
+![preview of Adrian Ravaliano Wibowo's portfolio website](./gambar/Business - Webflow HTML website template.png)
 
 Tampilan tersebut dapat dilihat di [link berikut (https://webflow.com/design/ravaliano-portfolio/)](https://ravaliano-portfolio.webflow.io/)
 
