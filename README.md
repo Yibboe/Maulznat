@@ -12,4 +12,4 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 Tampilan website
 ![preview of Abiyu Iqbal Maulana's portfolio website](./gambar/gambar/previewww.png)
 
-Tampilan tersebut dapat dilihat di [link berikut (https://webflow.com/design/Yibboe-portfolio/)](https://Yibboe-portfolio.webflow.io/)
+Tampilan tersebut dapat dilihat di [link berikut (https://abiyu-maulanas-portofolio-4f055f.webflow.io/)](https://abiyu-maulanas-portofolio-4f055f.webflow.io/)
